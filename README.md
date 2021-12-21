@@ -3,7 +3,7 @@ High security encryption decryption using Caeser
 
 
 Team 4 members:-
-<li>
+
   <ul>
     <item>Khushi Garg</item> <br>
 <item>Arunima Singh</item> <br>
@@ -11,4 +11,3 @@ Team 4 members:-
 <item>Shaili Gupta</item> <br>
   </ul>
 
-</li>
